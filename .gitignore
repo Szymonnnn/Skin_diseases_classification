@@ -1,0 +1,8 @@
+# Ignoruj pliki tymczasowe lub backupy
+*.tmp
+*.bak
+
+# Ignoruj katalogi
+HAM_RESIZED/
+HAM_TEST_RESIZED/
+HAM10015_merged/
